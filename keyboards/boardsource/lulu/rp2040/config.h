@@ -9,3 +9,6 @@
 #define I2C_DRIVER I2CD1
 #define I2C1_SDA_PIN GP22
 #define I2C1_SCL_PIN GP23
+// Add support for KC_LNUM (num_lock only while depressed)
+#define LOCKING_SUPPORT_ENABLE
+#define LOCKING_RESYNC_ENABLE
