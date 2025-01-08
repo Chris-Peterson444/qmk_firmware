@@ -29,3 +29,6 @@
 #define ADNS5050_CS_PIN           B4
 
 #define POINTING_DEVICE_ROTATION_270
+ // This reverses the direction that the scroll is performed.
+#define PLOOPY_DRAGSCROLL_INVERT
+
